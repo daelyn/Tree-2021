@@ -1,4 +1,5 @@
-# Tree-2021
+# Movie-Demic Application
+# TreeHacks-2021
 
 
 ## Inspiration
